@@ -1,0 +1,9 @@
+.nav-header .brand-logo .logo-img img{
+    width: 100% !important;
+}
+
+.icon-box i {
+    transform: scale(2);
+    color: #AD0E60;
+    font-size: 8px;
+}
