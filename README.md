@@ -1,4 +1,4 @@
-# 🏥 Medical Conference Management System
+8# 🏥 Medical Conference Management System
 
 A scalable web application developed to manage medical conference registrations, secure online payments, and automated participant onboarding across multiple countries.
 
@@ -82,6 +82,4 @@ This system streamlines the entire workflow from user registration to payment co
 ---
 
 ## 👩‍💻 Author
-
-Your Name  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Priya
